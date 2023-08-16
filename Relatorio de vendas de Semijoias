@@ -1,0 +1,8 @@
+Neste exemplo de relatorio foi utilizado uma base de dados do Excel, e neste relatorio possui algumas informações graficas, dentre elas:
+*Porcentagem de magem de lucro.
+*Porcentagem de produtos comprados por fornecedor
+*Porcentagem de peças de prata e ouro
+*Grafico com a quantidade de vendas por peças
+
+No relatorio, utiliza-se um recurso web, na qual a finalidade é importar o valor da cotação da grama do ouro.
+(Devido o tempo que este recurso foi feito, os valores podem estar desatualizados e eventualmente apresentar erros).
